@@ -32,5 +32,5 @@ async def on_message(message):
 
     await bot.process_commands(message)
 
-TOKEN = 'MTU0MzMwMjI2MDA4MjIxNzA4MQ.GRc_Gu.En3-6B6CIMgPI0Ytleat2Apm5anM5ys343cJ5w'
+TOKEN = 'DISCORD_TOKEN'
 bot.run(TOKEN)
